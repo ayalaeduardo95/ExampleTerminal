@@ -1,2 +1,2 @@
 # ExampleTerminal
-This is a demos repo
+This is a demo repo
